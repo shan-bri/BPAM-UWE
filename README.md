@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DPAM-UWE
 
 You can use the [editor on GitHub](https://github.com/shan-bri/BPAM-UWE/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
